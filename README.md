@@ -16,12 +16,12 @@
 - Analyzed the impact of various factors on credit scores and loan amounts.
 
 ### Skills & Languages
-  - **_Data Analytics_** : Proficient in Python for data analysis, data visualization using Excel and Tableau
-  - **_Data Manipulation_** : Novice SQL skills for data retrieval, manipulation, and querying.
-  - **_Programming_** : Competent in C++ programming language.
-  - **_Data Visualization_** : Construct informative and appealing data dashboards.
-  - **_Project Management_** : Experienced in implementing Scrum Methodology to increase project efficiency.
-  - **_Technical Tools_** : Proficient in Microsoft Office, Canva, Catia v5, and Solidworks.
-  - **_Languages_** : Fluent in Malay, English; Basic knowledge in Japanese.
-  - **_Certifications & Training_** : Registered Engineer (Board of Engineer Malaysia)
-  - **_Interest_** : Sport (Chess, Workout, Rugby, Jogging) , Data Analytics
+- **Data Analytics** : Proficient in Python for data analysis, data visualization using Excel and Tableau
+- **Data Manipulation** : Novice SQL skills for data retrieval, manipulation, and querying.
+- **Data Visualization** : Construct informative and appealing data dashboards.
+- **Programming** : Competent in C++ programming language.
+- **Project Management** : Experienced in implementing Scrum Methodology to increase project efficiency.
+- **Technical Tools** : Proficient in Microsoft Office, Canva, Catia v5, and Solidworks.
+- **Languages** : Fluent in Malay, English; Basic knowledge in Japanese.
+- **Certifications & Training** : Registered Engineer (Board of Engineer Malaysia)
+- **Interest** : Sport (Chess, Workout, Rugby, Jogging) , Data Analytics
